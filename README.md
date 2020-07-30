@@ -1,7 +1,7 @@
 Go Eureka Client
 ================
 
-Based on code from https://github.com/bryanstephens/go-eureka-client .
+Based on code from https://github.com/ArthurHlt/go-eureka-client .
 
 ## Getting started
 
